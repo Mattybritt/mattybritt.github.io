@@ -1,8 +1,8 @@
 
 var data = {};
 data.chars = " hutenoasdifygpcrlxbkmjqwvz6758493021`-=[]\\;',./ABCDEFGHIJKLMNOPQRSTUVWXYZ~!@#$%^&*()_+{}|:\"<>?";
-data.consecutive = 30;
-data.word_length = 10;
+data.consecutive = 10;
+data.word_length = 15;
 
 
 $(document).ready(function() {
